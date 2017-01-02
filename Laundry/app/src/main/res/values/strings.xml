@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Laundry</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBGpHIgbpKlMVggs5Qa8ZQhAEuBj-05nsw</string>
+    <string name="title_activity_location">Map</string>
+</resources>
